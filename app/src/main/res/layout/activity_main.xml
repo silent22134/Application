@@ -118,7 +118,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="14dp"
-            android:text="@string/btn_reAnswer" />
+            android:text="@string/btn_reAnswer"
+            tools:ignore="DuplicateSpeakableTextCheck" />
 
         <Button
             android:id="@+id/btn_showAnswer"
